@@ -1,0 +1,32 @@
+Git commands
+git config- git configuration to create customized Git workflow
+git init- repository. it is git switch.
+git status- see what files have been added, deleted or modified in your working directory.
+git add-add all files to the staging area . git add filename
+git commit- "commit" history git clone
+git push- push your changes to remote repository.
+
+git hub is a cloud based platform
+storing your code in a repository.
+showcase or share your work
+track and manage chages to your code
+review code
+collaborate
+
+Git-based workflow
+Create a branch off from the main copy of files
+Make edits to the files independently and safely
+intelligently merge your specfic chages back into the main copy files
+keep track
+
+pull all the latest changes made by your collaborators from the remote
+push back your own changes to the same remote repository on GitHub.
+ ubuntu does not support Git hub.
+ 
+ in terminal type sudo apt install git-all- to install git in ubuntu
+ mkdir filename-mkdir divyagit
+ git init-initialization
+ git status
+ echo "line content"> subfoldername
+ git add .
+ git status
